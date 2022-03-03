@@ -21,3 +21,5 @@ This is saikiran reddy gangidi
  ```
  $ mvn compile exec:java -Dexec.mainClass=org.apache.beam.examples.WordCount \
      -Dexec.args="--inputFile=sample.txt --output=counts" -Pdirect-runner ```
+
+![image](https://github.com/saikiranreddygangidi/java-word-count-beam/blob/master/image1.png)
